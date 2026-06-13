@@ -1,0 +1,1 @@
+# for-loop-to-print-table-pattern
